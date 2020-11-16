@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/tylermenezes/tylermenezes/blob/main/colors_sq.jpg" alt="Picture of Tyler" width=320px height=300px />
+<img align="right" src="https://github.com/tylermenezes/tylermenezes/blob/main/colors_sq.jpg" alt="Picture of Tyler" width=300px height=300px />
 
 Tyler Menezes is the Executive Director at [CodeDay,](https://www.codeday.org/) where he works to provide welcoming and
 diverse opportunities for under-served students to explore a future in tech and beyond.
